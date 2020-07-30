@@ -1,0 +1,53 @@
+.nv_img
+{
+    width: 30px;
+}
+img
+{
+ width: 100%;
+}
+
+.vector_cake
+{
+    width: 30px;
+}
+
+.heading2
+{
+  font-weight: bolder;
+  color: rgb(74, 131, 236);
+  text-align: left;
+}
+
+.heading1
+{
+  font-weight: bolder;
+  color: rgb(74, 131, 236);
+  text-align: left;
+}
+
+.thd
+{
+  color: rgb(74, 131, 236);
+  
+}
+
+body
+{
+    text-align: center;
+}
+
+.img-fluid
+{
+    width: 30px;
+}
+
+.admin_avatar
+{
+    width: 30px;
+}
+
+.img-cake
+{
+    width: 100%;
+}
